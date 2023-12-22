@@ -1,1 +1,174 @@
-9
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Facebook</title>
+</head>
+  <style>
+  .pp5{
+    height: 200px ;
+    width: 400px ;
+    position: absolute ;
+  }
+  .ibroo{
+    height: 140px ;
+    position: absolute ;
+    width: 150px ;
+    top: 200px ;
+    left: 34px ;
+    border-radius: 100px ;
+    border: 7px inset blue ;
+  }
+  .dots{
+    height: 30px;
+    position: absolute ;
+    bottom: 154px ;
+    left: 359px ;
+    z-index: 1;
+  }
+  .ibroy{
+    height: 30px ;
+    position: absolute ;
+    bottom: 155px ;
+    left: 210px ;
+    z-index: 1;
+  }
+  .home{
+    height: 20px ;
+    position: absolute;
+    bottom: 90px;
+  }
+  .doott{
+    height: 20px ;
+    position: absolute ;
+    top: 770px ;
+  }
+  .wifi{
+    height: 14px ;
+    position: absolute ;
+    bottom: 20px ;
+  }
+  .fgg{
+    height: 40px ;
+    position: absolute ;
+    bottom: 150px;
+    width: 130px ;
+    border: 0;
+    border-radius: 10px ;
+    font-weight: bold ;
+    font-size: 20px ;
+    padding-left: 20px;
+    color: white ;
+    background: blue ;
+  }
+  .sh{
+    height: 40px;
+    position: absolute ;
+    left: 200px ;
+    bottom: 150px ;
+    width: 50px ;
+    border: 0;
+    border-radius: 10px ;
+  }
+  .do{
+    height: 40px ;
+    position: absolute ;
+    width: 50px ;
+    bottom: 150px;
+    left: 350px;
+    border: 0;
+    border-radius: 10px ;
+  }
+  .livv{
+    position: absolute ;
+    bottom: 90px;
+    left: 40px ;
+  }
+  .somalia{
+    position: absolute ;
+    bottom: 90px;
+    left: 100px;
+    font-size: 15px ;
+    font-weight: bold ;
+  }
+  .see{
+    position: absolute ;
+    top: 770px;
+    left: 34px ;
+    z-index: 1;
+  }
+  .follow{
+    position: absolute ;
+    bottom: 20px;
+    left: 34px ;
+    
+  }
+  .followed{
+    position: absolute ;
+    bottom: 20px;
+    left: 140px ;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  </style>
+<body>
+    <h1 class="h11">Ibrahim mohamed</h1>
+    <div>
+      <div>
+        <img src="pp5.jpg" class="pp5">
+      </div>
+    </div>
+    <div>
+      <div>
+        <img src="ibroo.jpg" class="ibroo">
+      </div>
+    </div>
+      <div>
+        <div>
+          <img src="dots.svg" class="dots">
+        </div>
+      </div>
+       <div>
+         <div>
+           <img src="pp0.png" class="ibroy">
+         </div>
+       </div>
+    <div>
+      <div>
+        <button class="fgg"> Friends</button>
+        <button class="sh"></button>
+        <button class="do"></button>
+      </div>
+    </div>
+       <div>
+         <div>
+           <img src="con.png" class="wifi">
+         </div>
+       </div>
+    <div>
+        <div>
+          <div>
+           <img src="doot.png" class="doott">
+          </div>
+        </div>
+          <div>
+            <div>
+              <img src="how.svg" class="home">
+            </div>
+          </div>
+      <div>
+        <div>
+          <div class="livv"> live in</div>
+          <div class="somalia">Mogadishu,banadir,somalia</div>
+        </div>
+        <div>
+          <div class="follow"> followed by</div>
+          <div class="followed"> 10,00000 people </div>
+          <div class="see">see more about Ibrahim</div>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
